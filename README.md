@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 ## RUN
 - You need to contact the author to get all the processing logic in the Orca folder first.
-- start backend server: uvicorn backend.app:app
-- start frontend server: streamlit run frontend/main.py
-
+```
+start backend server: uvicorn backend.app:app
+start frontend server: streamlit run frontend/main.py
+```
