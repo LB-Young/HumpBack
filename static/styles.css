@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.stTextInput > div > div > input {
+    color: #4F8BF9;
+}
+
+.stButton > button {
+    background-color: #4F8BF9;
+    color: white;
+}
